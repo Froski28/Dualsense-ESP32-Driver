@@ -2,6 +2,9 @@
 
 This is a project utilizing ESP32 BT Classic to interface with a dualsense controller to allow full capabilities. This allows for sending & recieving packets to / from the controller and allows full capabilities with lights, gyroscope, microphone, sticks, buttons, touchpad, etc.
 
+The Code in the "main.c" file can be found here: \
+[Main File](./main/main.c)
+
 ## Media
 The image below showcases a terminal with real-time packets being recieved. \
 ![Terminal Showcase](ESP32_Dualsense_Terminal_Hiquality.jpeg)
