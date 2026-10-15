@@ -6,5 +6,5 @@ This is a project utilizing ESP32 BT Classic to interface with a dualsense contr
 The image below showcases a terminal with real-time packets being recieved. \
 ![Terminal Showcase](ESP32_Dualsense_Terminal_Hiquality.jpeg)
 \
-The Image below Showcases proof of the driver working with the Green lightbar. This is impossible to change without the driver or something external changing it (Normally blue). \
+The Image below Showcases proof of the driver working with the Green lightbar. This is impossible to change without the driver (Normally blue). \
 ![Lightbar Showcase](ESP32_Dualsense_Showcase.jpeg)
